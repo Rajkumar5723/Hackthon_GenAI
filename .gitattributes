@@ -1,0 +1,15 @@
+*.safetensors filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+writing filter=lfs diff=lfs merge=lfs -text
+\# filter=lfs diff=lfs merge=lfs -text
+or filter=lfs diff=lfs merge=lfs -text
+other filter=lfs diff=lfs merge=lfs -text
+the filter=lfs diff=lfs merge=lfs -text
+in filter=lfs diff=lfs merge=lfs -text
+script filter=lfs diff=lfs merge=lfs -text
+directory filter=lfs diff=lfs merge=lfs -text
+any filter=lfs diff=lfs merge=lfs -text
+large filter=lfs diff=lfs merge=lfs -text
+file filter=lfs diff=lfs merge=lfs -text
+extension filter=lfs diff=lfs merge=lfs -text
